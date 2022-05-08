@@ -83,18 +83,31 @@ body {
     margin: auto;
     padding-top: 1em;
 }
-#timebar {
+#timebarGreen {
     border: 1px solid black;
-    width: 70%;
-    height: 3em;
-    margin: 2em auto; /*vert hori*/
+    width: 80%;
+    height: 42px;
+    margin: 32px auto; /*vert hori*/
     background-color: green;
+    position: absolute;
+    margin-left: 10%;
+}#timebarRed {
+    border: 1px solid black;
+    width: 80%;
+    height: 42px;
+    margin: 32px auto; /*vert hori*/
+    background-color: red;
+    position: absolute;
+    margin-left: 10%;
 }
 .score {
     width: fit-content;
-    margin: 4em auto 0em auto; /* up right down left */
+    margin: 0em 0em 0em 0em; /* up right down left */
     font-weight: 700;
     font-size: 1.3em;
+    position: absolute;
+    bottom: 5%;
+    right: 45%;
 }
 .highscore {
     padding: .3em 0em;
@@ -104,4 +117,10 @@ body {
     display: none;
     margin: auto;
     padding-top: 1em;
+}
+@media (max-width: 500px) {
+    #command {
+        font-size: 1.5em;
+        margin-top: 0em;
+    }
 }
