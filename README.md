@@ -1,4 +1,5 @@
-# arrow_game
+# Arrow game <br>
+Click <a href='jspoh.github.io/games/ag.html'>here</a> to play the game in your browser!
 <hr>
 Game objective: Respond accordingly to the directional commands given before the time runs out! <br>
 Features: <br>
@@ -6,4 +7,15 @@ Features: <br>
 - Score and highscore system
 <hr>
 ##More about this game: <br>
-<img src='lib/main.PNG'>
+<img src='lib/main.PNG'> <br>
+Main starting screen <br>
+<br>
+
+<img src='lib/gameplay.PNG'> <br>
+This is what the gameplay looks like, you will receive arrow/text directional commands. Your goal is to react accordingly to the commands within the time limit indicated by the green/red time bar. <br>
+<br>
+
+<img src='lib/gameover.PNG'> <br>
+This is what the gameover screen looks like. You will encounter a gameover if you choose the wrong input or if time runs out. <br>
+<br>
+Good luck, hope you have fun!
