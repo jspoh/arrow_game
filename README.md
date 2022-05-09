@@ -6,4 +6,4 @@ Features: <br>
 - Score and highscore system
 <hr>
 ##More about this game: <br>
-<img src='lib/main.png'>
+<img src='lib/main.PNG'>
