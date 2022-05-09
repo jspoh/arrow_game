@@ -5,6 +5,7 @@ Game objective: Respond accordingly to the directional commands given before the
 Features: <br>
 - Easy to play, no need to install. Just visit the website! <br>
 - Score and highscore system <br>
+- 
 Fun fact: This is my first browser game!
 <hr>
 ##More about this game: <br>
