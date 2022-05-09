@@ -3,7 +3,7 @@ Click <a href='https://jspoh.github.io/games/arrow_game/ag.html' target='_blank'
 <hr>
 Game objective: Respond accordingly to the directional commands given before the time runs out! <br>
 Features: <br>
-- Easy to play, no need to install. Just visit the website!
+- Easy to play, no need to install. Just visit the website! <br>
 - Score and highscore system <br>
 Fun fact: This is my first browser game!
 <hr>
