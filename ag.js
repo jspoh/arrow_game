@@ -88,7 +88,10 @@ window.addEventListener('keydown', (e)=>{
     }
     if (correct) {correct = false; updateCommand();}
 
-    if (playerScore > playerHighscore) {playerHighscore = playerScore;}
+    if (playerScore > playerHighscore) {
+        playerHighscore = playerScore;
+        localStorage.ag_highscore = playerHighscore; //high score on device storage
+    }
     score.innerText = playerScore;
     highscore.innerText = playerHighscore;
 })
@@ -98,4 +101,10 @@ window.addEventListener('keydown', (e)=>{
 if (screen.width < 500) {
     alert('Mobile device detected!\nPlease switch to a PC/Laptop for the full experience!');
     window.location.href='../../website/projects.html';
+}
+
+//set up a high score system that stores data on device
+if (localStorage.ag_highscore) {
+    playerHighscore = localStorage.ag_highscore;
+    highscore.innerText = playerHighscore;
 }
