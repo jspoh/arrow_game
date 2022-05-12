@@ -1,5 +1,5 @@
 # Arrow game <br>
-Click <a href='https://jspoh.github.io/games/arrow_game/ag.html' target='_blank'>here</a> to play the game in your browser! <br>
+Click <a href='https://jspoh.github.io/projects/games/arrow_game/ag.html' target='_blank'>here</a> to play the game in your browser! <br>
 Available on both desktop and mobile!
 <hr>
 Game objective: Respond accordingly to the directional commands given before the time runs out! <br>
