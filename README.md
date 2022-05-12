@@ -20,4 +20,8 @@ This is what the gameplay looks like, you will receive arrow/text directional co
 <img src='lib/gameover.PNG'> <br>
 This is what the gameover screen looks like. You will encounter a gameover if you choose the wrong input or if time runs out. <br>
 <br>
+
+<img src='lib/mobile.PNG'> <br>
+When accessed on mobile, keypads will appear for you to use! <br>
+<hr>
 Good luck, hope you have fun!
