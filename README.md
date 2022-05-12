@@ -8,7 +8,9 @@ Features: <br>
 
 Fun fact: This is my first browser game!
 <hr>
-##More about this game: <br>
+
+## More about this game: <br>
+
 <img src='lib/main.PNG'> <br>
 Main starting screen <br>
 <br>
