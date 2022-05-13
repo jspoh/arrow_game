@@ -1,4 +1,4 @@
-# Arrow game <br>
+<h1>Arrow game</h1> <br>
 Click <a href='https://jspoh.github.io/projects/games/arrow_game/ag.html' target='_blank'>here</a> to play the game in your browser! <br>
 Available on both desktop and mobile!
 <hr>
@@ -10,7 +10,7 @@ Features: <br>
 Fun fact: This is my first browser game!
 <hr>
 
-## More about this game: <br>
+<h2>More about this game: </h2><br>
 
 <img src='lib/main.PNG'> <br>
 Main starting screen <br>
